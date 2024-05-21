@@ -1,4 +1,4 @@
-# This repository contains a project done for my Computer Information Technoogy Minor that uses a countdown timer, randomly selects a card and suit and constructs the image using javascript. 
+# This repository contains a project done for my Computer Information Technology Minor that uses a countdown timer, randomly selects a card and suit, and constructs the image using javascript. 
 
 #lab-6-bold.html: This HTML file contains the structure of a web page with an unordered list that will be dynamically updated to bold list elements in a cycling manner.
 
