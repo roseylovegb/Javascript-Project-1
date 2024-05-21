@@ -22,3 +22,7 @@
 #xc.html: This optional HTML file modifies the web page to display a button that, when clicked, shows a randomly generated hand of five cards in a designated container.
 
 #xc.js: This optional JavaScript file adds a method to display five random cards without repeats and modifies the functionality to work with a button instead of a timer.
+
+#clock.html: This HTML file sets up a web page that includes elements for displaying a countdown timer and an image. 
+
+#clock.js: This JavaScript file contains an object (cardObject) that manages a countdown timer and displays a random playing card when the countdown reaches zero. It includes methods for generating random cards and suits, updating the countdown display, and starting and stopping the timer.
