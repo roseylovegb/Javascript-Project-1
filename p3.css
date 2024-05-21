@@ -1,0 +1,17 @@
+img {
+    float: left;
+    padding: 5px;
+    width: 5%;
+
+}
+.hidden {
+    display: none;
+
+}
+h1 {
+    color: deeppink;
+    font-size: x-large;
+}
+div {
+    color: pink;
+}
